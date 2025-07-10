@@ -137,7 +137,21 @@
       <br>Vercel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Rust" />
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="WordPress" />
+      <br>WordPress
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastApi" />
+      <br>FastApi
+    </td>
+      <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VScode" />
       <br>VScode
     </td>
   </tr>
